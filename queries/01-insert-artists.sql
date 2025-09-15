@@ -14,10 +14,7 @@ INSERT INTO artistas (nome, tipo, membros, genero_musical, pais_origem, ano_inic
 VALUES 
 ('Maneskin' ,'Banda' ,4 ,'Rock' ,'Italia' ,2016 ,'Coraline', TRUE),
 ('Jungle' ,'Banda' ,3 ,'Indie, dance' ,'Reino Unido' ,2014 ,'Back to 74', TRUE),
-('The Walkmen' ,'Banda' ,5 ,'Rock' ,'Nova York' ,2000 ,'The Rat', TRUE),
+('The Walkmen' ,'Banda' ,5 ,'Rock' ,'Nova York' ,2000 ,'The Rat', FALSE),
 ('Radiohead' ,'Banda' ,5 ,'Rock alternativo' ,'Reino Unido' ,1985 ,'Creep', TRUE),
 ('beabadoobee' ,'solo' ,1 ,'Indie Rock' ,'Reino Unido' ,1017 ,'* death bed (coffee for your head)', TRUE);
 
-SELECT * FROM artistas;
-
-SELECT COUNT(*) AS total_astistas FROM artistas
