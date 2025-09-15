@@ -16,7 +16,7 @@ VALUES
 ('Mamma Mia' ,'Romance, comédia' ,'Phyllida Lloyd' ,2008 ,'Mamma Mia' ,  TRUE),
 ('Sinners' ,'Musical, Terror' ,'Ryan Cooler' ,2025 ,'Last time i see the sun' ,  TRUE),
 ('Piratas do caribe' ,'Aventura, comédia' ,'Espen Sandberg' ,2003 ,'He a Pirate' ,  FALSE),
-('Fale comigo' ,'Terror' ,'Michael Philippou, Danny Philippou' ,2023 ,'Unwritten' ,  TRUE),
+('Alice no país das maravilhas' ,'Aventura' ,'Tim Burton' ,2010 ,'Almost Alice' ,  TRUE),
 ('Todos menos você' ,'Romance, comédia' ,'Will Gluck' ,2024 ,'Le monde' ,  FALSE),
 ('Beatlejuice' ,'Terror, comédia' ,'Tim Burton' ,1988 ,'Whats my name' ,  TRUE),
 ('Tick tick...boom' ,'Romance, drama' ,'Lin-Manuel Miranda' ,2024 ,'Tick tick...boom' ,  TRUE);
