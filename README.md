@@ -54,3 +54,7 @@ Este banco de dados está em constante evolução. Abaixo estão as principais a
   ('TestAccount2', 'test2@email.com', 0, '2024-03-18'),
   ('AdminTest', 'admin@email.com', 0, '2024-03-20');
   ```
+"Modernização do Sistema de organização de maquiagem"
+
+  Contexto:
+  A beautycare é uma plataforma de compras de maquiagens que virou febre entre os jovens. Com o sucesso, eles precisam atualizar constantemente seu banco de dados.
