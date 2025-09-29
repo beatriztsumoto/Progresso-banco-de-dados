@@ -20,7 +20,7 @@ CREATE TABLE produtos (
  ('Pó Compacto Translúcido', 'Eudora', 50.00, 'Maquiagem', 105),
  ('Top Coat Extra Brilho', 'Colorama', 10.00, 'Unhas', 220),
  ('Creme para as Mãos com Manteiga de Karité', 'The Body Shop', 25.00, 'Corpo', 140),
- ('Hidratante Pós-Barba', 'Nivea Men', 20.00, 'Corpo', 160),
+ ('Hidratante Pós-Barba', 'Nivea ', 20.00, 'Corpo', 160),
  ('Gel de Limpeza Facial', 'Cetaphil', 42.00, 'Rosto', 100),
  ('Tônico Adstringente', 'Adcos', 58.00, 'Rosto', 70),
  ('Perfume Feminino Floral', 'O Boticário', 120.00, 'Perfumaria', 50),

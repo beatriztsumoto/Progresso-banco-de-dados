@@ -4,19 +4,21 @@ UPDATE produtos SET estoque = estoque + 50;
 
 SELECT * FROM produtos;
 
+
 UPDATE produtos
-SET preco = preco * 0.80;
+SET preco = preco - preco * 0.20
+WHERE categoria = 'Skincare';
 
 SELECT * FROM produtos;
 
 UPDATE produtos
-SET preco = preco * 1.15
+SET preco = preco + preco * 0.15
 WHERE marca = 'Nivea';
 
 SELECT * FROM produtos;
 
 UPDATE produtos
-SET preco = preco * 0.90
+SET preco = preco - preco * 0.1000000000
 WHERE estoque > 100;
 
 SELECT * FROM produtos;
